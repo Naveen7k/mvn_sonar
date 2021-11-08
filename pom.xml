@@ -73,7 +73,7 @@
 	 </plugin>
           <plugin>
               <groupId>org.owasp</groupId>
-              <artifactId>maven-dependency-check</artifactId>
+              <artifactId>dependency-check-maven</artifactId>
               <version>6.4.1</version>
               <executions>
                   <execution>
